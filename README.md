@@ -1,5 +1,3 @@
-# Heart-Disease-Prediction
-A machine learning project that predicts the presence of heart disease using clinical data from the UCI dataset. Includes data preprocessing, EDA, logistic regression model training, and performance evaluation with accuracy and recall metrics.
 # 🏥 Heart Disease Prediction
 
 This project uses a machine learning model to predict the presence of heart disease based on clinical parameters. It leverages the UCI Heart Disease dataset and includes data analysis, model training, evaluation, and visualization.
